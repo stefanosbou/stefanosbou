@@ -14,7 +14,7 @@ Building and scaling high-throughput, event-driven microservices.
 
 ---
 
-## Tech Stack
+## 🛠 Tech Stack
 
 **Languages**
 <p>
@@ -49,7 +49,7 @@ Building and scaling high-throughput, event-driven microservices.
   
 ---
 
-## Connect
+## 📫 Connect
 
 - **LinkedIn**: [stefanosbourtzoudis](https://www.linkedin.com/in/stefanosbourtzoudis)
 - **GitHub**: [@stefanosbou](https://github.com/stefanosbou)
