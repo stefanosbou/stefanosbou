@@ -40,11 +40,29 @@ Building and scaling high-throughput, event-driven microservices. Strong in dist
 
 ---
 
+## 🌱 What I'm Doing
+
+- **Tech lead at Pleo** — full-stack lead for internal tooling; building permissioning and auditability systems for internal users
+- **Building developer tooling** — scratching my own itches with CLI tools in Go (broom-cli, repokit)
+- **Rust for ultra-low latency** — experimenting with Rust for algorithmic trading; chasing microseconds where GC pauses are not an option
+- **AI-assisted development** — integrating Claude Code into daily workflow; exploring where agentic tools genuinely accelerate engineering
+  
+---
+
 ## Connect
 
 - **LinkedIn**: [stefanosbourtzoudis](https://www.linkedin.com/in/stefanosbourtzoudis)
 - **GitHub**: [@stefanosbou](https://github.com/stefanosbou)
 
+---
+
+## 💡 Random Facts
+
+- Firmly believe the best code is deleted code
+- White theme IDE — attracts bugs faster
+- Gym regular; the best debugging happens away from the screen
+- Building an algorithmic trading system for fun and profit — emphasis on fun, profit pending
+  
 ---
 
 <p align="left">
