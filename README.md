@@ -8,9 +8,9 @@ Building and scaling high-throughput, event-driven microservices.
 
 ## Projects
 
-- **[broom-cli](https://github.com/stefanosbou/broom-cli)** — Cross-platform Go CLI that reclaims disk space stolen by dependency caches and build artifacts across 11 ecosystems (Go, Rust, npm, Maven, Docker, and more) in one command
-- **[repokit](https://github.com/stefanosbou/repokit)** — Go CLI for bulk-managing local git repositories: registry, status dashboard, parallel pull/fetch, dead-branch reaper
-- **[esc-pos-java](https://github.com/stefanosbou/esc-pos-java)** — Java library for ESC/POS thermal printers supporting text, barcodes, QR codes, and images over serial and network connections
+- **[broom-cli](https://github.com/stefanosbou/broom-cli)** — Go CLI that reclaims disk space from dev caches and build artifacts in one command
+- **[repokit](https://github.com/stefanosbou/repokit)** — Go CLI for managing multiple git repos: status, parallel pull/fetch, dead-branch reaper
+- **[esc-pos-java](https://github.com/stefanosbou/esc-pos-java)** — Java library for ESC/POS thermal printers over serial and network
 
 ---
 
