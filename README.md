@@ -2,7 +2,7 @@
 
 🚀 **Senior Software Engineer @ [Pleo Technologies](https://www.pleo.io)**
 
-Building and scaling high-throughput, event-driven microservices. Strong in distributed systems and cloud infrastructure — focused on performance, reliability, and observability.
+Building and scaling high-throughput, event-driven microservices.
 
 ---
 
